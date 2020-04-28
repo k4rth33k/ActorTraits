@@ -16,6 +16,7 @@ These images were saved into *Actors Images.csv*
   
   ## Deep Learning model
   A BERT based deep learning model was built.
+  **Please read the README in the BERT folder for more info.**
   
   This transfer learning based model was trained upon text and personality traits data obtained from various research papers (check references section).
 

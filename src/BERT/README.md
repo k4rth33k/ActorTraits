@@ -11,4 +11,4 @@ The BERT weights were not re-trained.
 
 Trained on my Laptop (NVIDIA GTX 1050)
 
-**Final trained model can be found here (600 MB)**
+**Final trained model was not included as it was too large(600 MB).**

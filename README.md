@@ -1,5 +1,5 @@
 # ActorTraits
-This repo is a submission for Bipolar's Internship
+This repo is a submission for Bipolar Factory's Internship
 
 The repo consists of two folders
 

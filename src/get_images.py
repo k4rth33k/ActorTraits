@@ -9,7 +9,7 @@ import pandas as pd
 
 search_url = "https://api.cognitive.microsoft.com/bing/v7.0/images/search"
 
-headers = {"Ocp-Apim-Subscription-Key": 'a2230db5b8d04a53b0fdb4ed7c2eb607'}
+headers = {"Ocp-Apim-Subscription-Key": 'INSERT_YOUR_KEY'}
 # I've saved my free BING Search API key as an environment variable
 
 params = {"q": "", "imageType": "photo", "count": "100"}
